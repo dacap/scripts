@@ -1,0 +1,9 @@
+{
+    "name": "md5-all",
+    "version": "0.0.1",
+    "author": "David Capello <davidcapello@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "optimist": "*"
+    }
+}
